@@ -17,10 +17,7 @@ Uma loja virtual conhecida nacionalmente estava fazendo seu balanço de caixa, e
 A empresa trabalha com a ideia de cashback em vendas realizadas para fidelizar clientes. Para cada pagamento recebido existe a possibilidade de gerar uma taxa variável em percentuais de cashback, a depender do(a) cliente. 
 Você foi contratado para criar um dos módulos do sistema. Esse módulo será acessado apenas pelos outros módulos do sistema da empresa, ou seja, todas as requisições que a API receber, serão de origem dos outros módulos. 
 
-# Back-end
-
-O módulo que você irá criar, deverá ser uma aplicação REST capaz de:
-
+# <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Back-end
 
 ## Fluxo Conta:
 
@@ -73,9 +70,7 @@ O módulo que você irá criar, deverá ser uma aplicação REST capaz de:
 ]
 ```
 
-# Front-end
-
-Para interagir com a API REST, será necessário criar, pelo menos, as seguintes telas:
+# <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Front-end
 
 1. Tela de cadastro de nova conta
 - Deverá acessar o endpoint de cadastro de nova conta
@@ -100,7 +95,7 @@ Para interagir com a API REST, será necessário criar, pelo menos, as seguintes
 5. Um menu de acesso a todas as telas, com nome e CPF da pessoa logada.
 
 
-## O que será avaliado
+# <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> O que será avaliado
 - Documentação
 - Código limpo e organizado (nomenclatura, etc)
 - Conhecimento de padrões (design patterns, SOLID)
@@ -109,7 +104,7 @@ Para interagir com a API REST, será necessário criar, pelo menos, as seguintes
 - Segurança
 - Cobertura de testes
 
-## Diferencial
+# <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Diferencial
 - Uso de Docker
 - Testes de integração
 - Testes unitários
