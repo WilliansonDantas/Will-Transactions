@@ -1,6 +1,14 @@
 # Will-Transactions
 
-# PSel Acelera Trybe
+-----
+
+# Desafio Acelera Trybe
+
+A contextualização do Case e requisitos necessários foram retirados do readme fornecido pela Instituição Trybe.
+
+-----
+
+# <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contextualização
 
 Com a chegada do OpenBanking no Brasil as transações bancárias passaram a ser menos burocráticas, permitindo que qualquer empresa possa realizar transações através de qualquer instituição financeira que utiliza o OpenBanking.
 
